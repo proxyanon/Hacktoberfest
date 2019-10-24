@@ -4,3 +4,4 @@
 | ------------ | --------------------------------------------- | -------------------------- |
 | Bhumij Gupta | [bhumijgupta](https://github.com/bhumijgupta) | NodeJS, Python             |
 |              |                                               |                            |
+| Eidson Sá    | [eidsonsa] (https://github.com/eidsonsa)      | Java, C++, Python          |
